@@ -26,7 +26,7 @@
 
        ?>
     </p>
-      <h2>Dati
+      <h2>
         <?php
 
           echo "Questo paragrafo è composto da " . count($words) . " parole. Ne sono state sostituite " . $counter . " perchè badwords."
